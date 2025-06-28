@@ -84,7 +84,7 @@ The project consists of two phases:
 | **TCN-Transformer (w/o PE)** | Extended       | **1.0997** | **0.9460**  | Robust, better than LSTM variants              |
 | **TCN-Transformer (with PE)**| Extended       | **1.0958** | **0.9264**  | Best overall; attention boosts accuracy        |
 
-> ✅ **Observation:** TCN-Transformer with positional encoding outperforms all other models in both oil and water cut forecasting.
+>  **Observation:** TCN-Transformer with positional encoding outperforms all other models in both oil and water cut forecasting.
 
 ---
 
